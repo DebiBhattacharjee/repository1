@@ -47,6 +47,7 @@ from tkinter import messagebox
 # Screenshots:
 
 **Log In/Sign Up Page**
+![](1.png)
 
 ![](Screenshot(4).png)
 
