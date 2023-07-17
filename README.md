@@ -7,7 +7,7 @@
 
  # Abstract
 
- Manual process of keeping member records, book records, account details, managing library candidates is very difficult. There are various problems also faced by the members in library such as finding any particular book, information whether book is available or not, searching of books using Book ID,return a book that has been already issued etc. To eliminate this manual system, an Online Library Management System has been developed.
+ Manual process of keeping member records, book records, library details, managing library candidates is very difficult. There are various problems also faced by the members in library such as finding any particular book, information whether book is available or not, searching of books using Book ID,return a book that has been already issued etc. To eliminate this manual system, an Online Library Management System has been developed.
 
  # Code Features:
 
@@ -18,11 +18,12 @@
   5. Deleting books
   6. View list of the available books along with book details
   7. Returning books
+  8. View details of the members
 
 
  # Technology Stack Used:
 
- Front End : **Python GUI**
+ Front End : **Python Tkinter**
  
  Back End : **Python , MySQL**
  
