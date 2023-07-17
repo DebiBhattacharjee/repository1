@@ -33,6 +33,19 @@
 
  The source code of this project is written in **Python**. So, we need Python to be installed in our machine.
  The database required for this project is **MySQL**. So, I installed **XAMPP** in order to work with MySQL server. Here, we made the required MySQL database.
- 
+
+
+# Required libraries and modules:
+
+```
+from tkinter import *
+from PIL import ImageTk,Image 
+import pymysql
+from tkinter import messagebox
+```
+
+# Screenshots:
+
+**Log In/Sign Up Page**
 
   
