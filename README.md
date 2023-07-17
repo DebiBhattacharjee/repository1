@@ -34,7 +34,10 @@
  The source code of this project is written in **Python**. So, we need Python to be installed in our machine.
  The database required for this project is **MySQL**. So, I installed **XAMPP** in order to work with MySQL server. Here, we made the required MySQL database.
 
+# How it works:
 
+  If a member signs up , the information of them will be saved to the Database we created in MySQL server. Same will be occurred when a book is added as well. In the home page ,We can view the member details and book details also. If we delete a book, the book will be deleted from the specific table of the database. After logging in or signing up, A  member can issue a available book or return a book which has been already issued.
+  
 # Required libraries and modules:
 
 ```
@@ -82,5 +85,9 @@ cur = con.cursor()
 
 ### View Candidates
 ![](10.png)
+
+
+
+# THANK YOU!!
 
   
