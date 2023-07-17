@@ -43,17 +43,44 @@ from PIL import ImageTk,Image
 import pymysql
 from tkinter import messagebox
 ```
+# Connecting to MySQL server:
+```
+con = pymysql.connect(host="localhost",user="root",password='',database='db1')
+cur = con.cursor()
+```
 
 # Screenshots:
 
-**Log In/Sign Up Page**
+### Log In/Sign Up Page
 ![](1.png)
 
-**Log In Screen**
+
+### Sign Up Screen
+![](2.png)
 
 
-![](Screenshot(4).png)
+### Log In Screen 
+![](3.png)
 
+### Home Screen
+![](4.png)
 
+### Add Book Page
+![](5.png)
+
+### Delete Book Page
+![](6.png)
+
+### View Books
+![](7.png)
+
+### Issue Book Page
+![](8.png)
+
+### Return Book Page
+![](9.png)
+
+### View Candidates
+![](10.png)
 
   
